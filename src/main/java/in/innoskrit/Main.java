@@ -1,4 +1,6 @@
-package in.innoskrit;public class Main {
+package in.innoskrit;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
