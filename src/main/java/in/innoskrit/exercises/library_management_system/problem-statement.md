@@ -1,7 +1,7 @@
 ## Library Management System
 
 ### Problem Statement:
-Create a Library Management System that can handle books and patrons. The system should allow librarians to add, remove, and update books in the library. Patrons can borrow and return books. Each book has attributes like title, author, ISBN, and availability status. Patrons have attributes like name, membership ID, and a list of borrowed books.
+Create a Library Management System that can handle books and patrons. The system should allow librarians to add, remove, and update books in the library. Patrons can borrow and return books. Each book has attributes like title, author, id, and availability status. Patrons have attributes like id, name, and a list of borrowed books.
 
 ### Functionality:
 
